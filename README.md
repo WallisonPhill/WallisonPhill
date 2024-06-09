@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-  Student at @Rocketseat<br>- Tech Student<br>-  PT/EN/FR Speaker</p>
+<p align="left">-  Tech Student at @Rocketseat<br>- Developer<br>-  PT/EN/FR Speaker</p>
 
 ###
 
